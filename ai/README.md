@@ -58,7 +58,7 @@ Required internship skills:
   }
 }
 
-Example Output
+#Example Output
 {
   "match_percentage": 78.42,
   "matched_skills": [
@@ -78,11 +78,12 @@ Example Output
     ]
   }
 }
-Install the required Python library:
+#Install the required Python library:
     pip install -r requirements.txt
-Run the Module
+
+#Run the Module
     python skill_matching.py
-Output
+#Output
     The module returns JSON containing:
 
     Match percentage
